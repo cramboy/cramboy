@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eweltin3
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, GIT, Cisco DevNet, how to use GNS3, and anything related to programming - especially when it comes to networking.
-- 💞️ I’m looking to collaborate on ... at the moment - parsing TL1 output - particularly from Ciena DWDM equipment.
+- 🌱 Python3 network programming
+- 💞️ I’m looking to collaborate on Python3 network programming - specifically on Ciena OME6500 DWDM telecom devices
 - 📫 How to reach me ... eweltin3@gmail.com
 
 <!---
